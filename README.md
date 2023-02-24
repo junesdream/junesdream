@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junesdream
 - 👀 I’m interested in music and culture and nice people.
-- 🌱 I’m currently learning more web development and programming.
+- 🌱 I’m doing web-development. But currently i'm learning more web-development and other programming.
 - 💞️ I’m looking to collaborate on learning and working together.
 - 📫 How to reach me? Send me simyply PM on GitHub :D
 
