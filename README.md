@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @junesdream
 - 👀 I’m interested in music and culture and nice people.
-- 🌱 I’m doing web-development. But currently i'm learning more web-development and other programming.
+- 🌱 I’m doing Fullstack Development mit Java, JS and TS.
 - 💞️ I’m looking to collaborate on learning and working together.
-- 📫 How to reach me? Send me simyply PM on GitHub :D
+- 📫 How to reach me? Send me simyply PM on GitHub
 
 <!---
 junesdream/junesdream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
